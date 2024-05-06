@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "strictLineBreaks": false
+}

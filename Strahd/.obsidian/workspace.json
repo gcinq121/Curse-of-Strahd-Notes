@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd18cf74c910f13",
+        "id": "83879451ce9356a7",
         "type": "tabs",
         "children": [
           {
-            "id": "2120122e2a0ed160",
+            "id": "93971abb7d374e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Session Journals/2024-05-05.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9aed8532312eef47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +30,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7e25eb533c283a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 The World Of Strahd/04 Groups/Church of Kelemvor.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 The World Of Strahd/04 Groups/Church of Kelemvor.md",
+                "file": "02 Session Journals/2024-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 The World Of Strahd/04 Groups/Church of Kelemvor.md",
+                "file": "02 Session Journals/2024-05-05.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 The World Of Strahd/04 Groups/Church of Kelemvor.md"
+                "file": "02 Session Journals/2024-05-05.md"
               }
             }
           },
@@ -163,36 +162,38 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7e25eb533c283a96",
+  "active": "93971abb7d374e0b",
   "lastOpenFiles": [
-    "03 The World Of Strahd/01 PC/Revach.md",
-    "01 Scratch notes.md",
-    "03 The World Of Strahd/02 NPC/02 NPC.md",
-    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
-    "04 Tech Stuff/The Curse of Strahd.md",
     "02 Session Journals/2024-04-27.md",
+    "02 Session Journals/2024-05-05.md",
+    "04 Tech Stuff/Images/DrVadimChakovJournal.png",
+    "04 Tech Stuff/The Curse of Strahd.md",
+    "03 The World Of Strahd/04 Groups/Church Of Lethander.md",
+    "04 Tech Stuff/Images/symbolOfLethander.png",
+    "04 Tech Stuff/Images/wolfHeadJamboree.png",
+    "04 Tech Stuff/sortspec.md",
+    "03 The World Of Strahd/04 Groups/Vampires.md",
+    "03 The World Of Strahd/04 Groups/Shadar-kai.md",
+    "03 The World Of Strahd/04 Groups/Innkeeper's Family.md",
     "03 The World Of Strahd/04 Groups/Church of Kelemvor.md",
-    "03 The World Of Strahd/03 Barovia/Tser Pool Camp.md",
-    "04 Tech Stuff/Templates/Location.md",
-    "03 The World Of Strahd/02 NPC/Ireena Kolyana.md",
-    "03 The World Of Strahd/02 NPC/Gregori Donavich.md",
-    "03 The World Of Strahd/02 NPC/Ismark Kolyanovich.md",
-    "03 The World Of Strahd/02 NPC/Mad Mary.md",
-    "03 The World Of Strahd/02 NPC/Kolyan Indirovich.md",
     "03 The World Of Strahd/02 NPC/Vistani Elder.md",
     "03 The World Of Strahd/02 NPC/Strahd von Zarovich.md",
+    "03 The World Of Strahd/02 NPC/Mad Mary.md",
+    "03 The World Of Strahd/02 NPC/Kolyan Indirovich.md",
+    "03 The World Of Strahd/02 NPC/Ismark Kolyanovich.md",
+    "03 The World Of Strahd/02 NPC/Ireena Kolyana.md",
+    "03 The World Of Strahd/02 NPC/Gregori Donavich.md",
+    "03 The World Of Strahd/02 NPC/02 NPC.md",
+    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
+    "03 The World Of Strahd/01 PC/Revach.md",
+    "01 Scratch notes.md",
+    "03 The World Of Strahd/03 Barovia/Tser Pool Camp.md",
+    "04 Tech Stuff/Templates/Location.md",
     "02 Session Journals/2024-04-20.md",
     "test.md",
     "03 The World Of Strahd/03 Barovia/Village of Barovia/Barovia Manor.md",
-    "03 The World Of Strahd/04 Groups/Vistani.md",
-    "03 The World Of Strahd/04 Groups/Church Of Lethander.md",
-    "04 Tech Stuff/Templates/NPC.md",
     "obsidian.vimrc",
-    "obsidian.vimrc.md",
-    "03 The World Of Strahd/03 Barovia/Vallaki.md",
-    "03 The World Of Strahd/06 Important Items/Gold & Silver Ring.md",
     "Pasted image 20240430202346.png",
-    "04 Tech Stuff/Templates/Session Journal.md",
     "03 The World Of Strahd/02 NPC/02 NPC.canvas",
     "04 Tech Stuff/Images/npcScreen.png",
     "04 Tech Stuff/Images",

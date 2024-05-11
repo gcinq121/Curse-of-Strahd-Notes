@@ -3,7 +3,7 @@ type: location
 learnDate: 2024-05-05
 encounterDate: 2024-05-05
 ---
-A set of gates in central [[03 Barovia|Barovia]], West of Castle Ravenloft
+A set of gates in central [[03 Barovia|Barovia]], West of [[Castle Ravenloft]]
 Just South of the windmill
 
 The gate is made of black iron and leads into a short, 20 ft. tunnel

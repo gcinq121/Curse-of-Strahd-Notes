@@ -3,7 +3,7 @@
     {
       "id": "barovia-map",
       "locked": true,
-      "lastAccessed": 1715047280003,
+      "lastAccessed": 1715387667383,
       "markers": [
         {
           "id": "ID_c98829886bba",
@@ -97,6 +97,7 @@
             -0.561187744140625,
             1.0380859375
           ],
+          "link": "The Windmill",
           "layer": "%5B%5Bbarovia-map.png%5D%5D",
           "mutable": true,
           "command": false,

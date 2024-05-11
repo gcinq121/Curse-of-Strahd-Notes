@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83879451ce9356a7",
+        "id": "6e3768962a38175f",
         "type": "tabs",
         "children": [
           {
-            "id": "93971abb7d374e0b",
+            "id": "ff5c28539a9149e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02 Session Journals/2024-05-05.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a7b5778a1fa64255",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c1f2f824577b53f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 The World Of Strahd/03 Barovia/West Gate.md",
                 "mode": "preview",
                 "source": true
               }
@@ -153,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +149,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "93971abb7d374e0b",
+  "active": "ff5c28539a9149e4",
   "lastOpenFiles": [
-    "03 The World Of Strahd/03 Barovia/West Gate.md",
-    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
+    "The Windmill.md",
     "02 Session Journals/2024-05-05.md",
+    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
     "04 Tech Stuff/The Curse of Strahd.md",
+    "03 The World Of Strahd/03 Barovia/West Gate.md",
     "04 Tech Stuff/Templates/Location.md",
     "03 The World Of Strahd/03 Barovia/East Gate.md",
     "02 Session Journals/2024-04-27.md",
@@ -198,7 +180,6 @@
     "01 Scratch notes.md",
     "03 The World Of Strahd/03 Barovia/Tser Pool Camp.md",
     "02 Session Journals/2024-04-20.md",
-    "test.md",
     "obsidian.vimrc",
     "Pasted image 20240430202346.png",
     "03 The World Of Strahd/02 NPC/02 NPC.canvas",

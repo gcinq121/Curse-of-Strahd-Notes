@@ -1,7 +1,9 @@
 Just notes for the Curse of Strahd campaign
+
 Don't judge lol
 
 All notes are in markdown format but can be viewed with any text editor
+
 Some things like the tables won't work without the specific obsidian plugins I use
 - These and all my settings can be found in the .obsidian folder
 - My default controls in obsidian use Vi which can be turned off in Setting -> General -> Editor -> Vim Key Bindings at the bottom

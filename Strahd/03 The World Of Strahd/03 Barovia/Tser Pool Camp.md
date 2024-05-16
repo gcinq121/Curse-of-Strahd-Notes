@@ -7,7 +7,7 @@ aliases:
   - Tser Pool
 ---
 A small camp where the [[Vistani]] were staying
-- Off of a pool in the Ivlis River in the East of [[03 Barovia|Barovia]] and very closely South of Strahd's Castle
+- Off of a pool in the Ivlis River in the East of [[03 Barovia|Barovia]] and very closely South of [[Castle Ravenloft|Strahd's Castle]]
 
 The location where the party met the [[Vistani]] 
 - When they are not there, they will leave someone or a note indicating where they can be found

@@ -7,5 +7,5 @@
   "propertiesInDocument": "hidden",
   "defaultViewMode": "preview",
   "readableLineLength": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": true
 }

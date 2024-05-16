@@ -3,7 +3,7 @@
     {
       "id": "barovia-map",
       "locked": true,
-      "lastAccessed": 1714944562561,
+      "lastAccessed": 1715395484290,
       "markers": [
         {
           "id": "ID_c98829886bba",
@@ -64,6 +64,57 @@
             0.8408203125
           ],
           "link": "Vallaki",
+          "layer": "%5B%5Bbarovia-map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea98392ae9ca",
+          "type": "default",
+          "loc": [
+            -0.610992431640625,
+            1.255859375
+          ],
+          "link": "West Gate",
+          "layer": "%5B%5Bbarovia-map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b59badafada",
+          "type": "default",
+          "loc": [
+            -0.561187744140625,
+            1.0380859375
+          ],
+          "link": "The Windmill",
+          "layer": "%5B%5Bbarovia-map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a2b085bcbfb",
+          "type": "default",
+          "loc": [
+            -0.6861724853515625,
+            1.5061188033681214
+          ],
+          "link": "Castle Ravenloft",
           "layer": "%5B%5Bbarovia-map.png%5D%5D",
           "mutable": true,
           "command": false,

@@ -9,7 +9,7 @@
 TABLE WITHOUT ID link(file.name) AS "Session Date", location AS "Where", oneLiner AS "One Liner"
 WHERE type = "Session Journal"
 AND file.name != "Session Journal"
-SORT file.sessionDate ASC
+SORT file.mtime DESC
 
 ### Recently Modified
 ```dataview

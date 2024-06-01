@@ -24,10 +24,17 @@ Spread joy wherever they go and whenever possible
 
 ### Lethander's Tenets of Faith
 **Watch each sunrise** - each day is a gift
+
 **Always aid** - strive always to aid, cultivate, inspire, and support all living things
+
 **Bring hope** - Wherever you go, plant seed of hope, new ideas, and plans for the brighter future in the minds of all
+
 **Nurture life** - It is your sacred duty to foster new growth, nurture living things, and beget rebirth and renewal. Revere the cycle of life and death
+
 **Perfect oneself** - Promote the betterment of yourself and those around you. Encourage creativity, artistry, and innovation
+
 **Illuminate darkness** - Shine bright and true on those who dwell in darkness, and bring those who are lost back to the light
+
 **Abhor evil** - Be intolerant of evil; beware inaction that causes evil to prosper. Destroy undeath wherever it is found, for it is the antithesis of growth
+
 **Rules are secondary** - Place more importance in actions that help others than in strict adherence to rules, rituals, and the dictates of your seniors

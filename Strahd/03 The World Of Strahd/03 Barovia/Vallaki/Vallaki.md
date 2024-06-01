@@ -1,7 +1,7 @@
 ---
 type: location
 learnDate: 2024-04-27
-encounterDate: 
+encounterDate: 2024-05-11
 ---
 A walled city in northern [[03 Barovia|Barovia]] that is on Lake Zarovich
 Supposedly safe from [[Strahd von Zarovich|Strahd]] because of the wall

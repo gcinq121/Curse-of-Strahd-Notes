@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "325be261c919150c",
+        "id": "32eca6f7c97fdc35",
         "type": "tabs",
         "children": [
           {
-            "id": "c96d41020dd63336",
+            "id": "398d9957f8cb4c2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04 Tech Stuff/The Curse of Strahd.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lucien",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 Tech Stuff/The Curse of Strahd.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 Tech Stuff/The Curse of Strahd.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "04 Tech Stuff/The Curse of Strahd.md"
+              }
             }
           },
           {
@@ -122,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,40 +149,41 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c96d41020dd63336",
+  "active": "398d9957f8cb4c2d",
   "lastOpenFiles": [
-    "03 The World Of Strahd/02 NPC/Brae Martikov.md",
+    "02 Session Journals/2024-05-19.md",
+    "02 Session Journals/2024-05-05.md",
     "02 Session Journals/2024-05-11.md",
+    "04 Tech Stuff/The Curse of Strahd.md",
+    "Father Lucian Petrovich.md",
+    "St. Andral's Church.md",
+    "03 The World Of Strahd/04 Groups/Church Of Lethander.md",
+    "03 The World Of Strahd/02 NPC/Gregori Donavich.md",
+    "03 The World Of Strahd/02 NPC/Thimdul.md",
+    "03 The World Of Strahd/02 NPC/Baron Vargas Vallakovich.md",
+    "03 The World Of Strahd/02 NPC/Ismark Kolyanovich.md",
+    "03 The World Of Strahd/03 Barovia/Vallaki/Thimdul's Armaments.md",
+    "03 The World Of Strahd/02 NPC/Izek Stronski.md",
+    "03 The World Of Strahd/03 Barovia/Vallaki/Third Eye Potions & Sundries.md",
+    "03 The World Of Strahd/03 Barovia/Vallaki/Dusklight Supply Shop.md",
+    "02 Session Journals/2024-04-27.md",
+    "03 The World Of Strahd/02 NPC/Myrtle & Freek.md",
+    "Untitled.canvas",
+    "03 The World Of Strahd/03 Barovia/The Windmill.md",
+    "03 The World Of Strahd/02 NPC/Brae Martikov.md",
     "03 The World Of Strahd/03 Barovia/Vallaki/Blue Water Inn.md",
     "03 The World Of Strahd/02 NPC/Danika Dorakova.md",
-    "04 Tech Stuff/The Curse of Strahd.md",
     "03 The World Of Strahd/02 NPC/Urwin Martikov.md",
     "03 The World Of Strahd/02 NPC/02 NPC.md",
     "03 The World Of Strahd/02 NPC/Kolyan Indirovich.md",
-    "02 Session Journals/2024-05-05.md",
-    "02 Session Journals/2024-04-27.md",
     "03 The World Of Strahd/03 Barovia/Vallaki/Vallaki.md",
     "02 Session Journals/2024-04-20.md",
-    "03 The World Of Strahd/03 Barovia/Village of Barovia/Barovia Church of Lethander.md",
-    "03 The World Of Strahd/02 NPC/Gregori Donavich.md",
-    "03 The World Of Strahd/03 Barovia/Vallaki.md",
     "03 The World Of Strahd/03 Barovia/Vallaki",
-    "03 The World Of Strahd/04 Groups/Church Of Lethander.md",
-    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
-    "03 The World Of Strahd/02 NPC/Ismark Kolyanovich.md",
-    "04 Tech Stuff/Templates/Location.md",
-    "03 The World Of Strahd/03 Barovia/The Windmill.md",
     "04 Tech Stuff/Images/BOMbakery.png",
-    "03 The World Of Strahd/02 NPC/Myrtle & Freek.md",
-    "03 The World Of Strahd/03 Barovia/Castle Ravenloft.md",
     "04 Tech Stuff/Images/npcScreen.png",
-    "03 The World Of Strahd/03 Barovia/West Gate.md",
-    "03 The World Of Strahd/03 Barovia/East Gate.md",
     "04 Tech Stuff/Images/DrVadimChakovJournal.png",
     "04 Tech Stuff/Images/symbolOfLethander.png",
     "04 Tech Stuff/Images/wolfHeadJamboree.png",
-    "04 Tech Stuff/sortspec.md",
-    "03 The World Of Strahd/04 Groups/Vampires.md",
     "obsidian.vimrc",
     "Pasted image 20240430202346.png",
     "03 The World Of Strahd/02 NPC/02 NPC.canvas",

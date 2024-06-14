@@ -6,7 +6,6 @@ encounterLocation:
 lastSeen: 
 aliases: 
   - Priest of Church of Barovia
-  - Priest
   - Father Gregori
 alive: true
 affiliatedGroups: 

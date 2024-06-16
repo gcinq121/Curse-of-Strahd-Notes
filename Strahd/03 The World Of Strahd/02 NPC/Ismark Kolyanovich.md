@@ -8,7 +8,7 @@ aliases:
   - Ismark
 alive: true 
 affiliatedGroups: 
-info: The son of the burgomeister, trying to keep his sister Ireena away from Strahd, traveling with the party to somewhere safe
+info: The son of the burgomaster, trying to keep his sister Ireena away from Strahd, traveling with the party to somewhere safe
 ---
 Son the the [[Kolyan Indirovich|Burgomaster of the Village of Barovia]] 
 Brother of [[Ireena Kolyana|Ireena]] 

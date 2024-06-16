@@ -25,3 +25,9 @@ Has an idea that if everyone is happy then [[Vallaki]] will be released from [[S
 In an intense political battle with Lady Wachter of the Wachterhaus
 - She believes he is not running the town well and wishes to take control
 - [[Baron Vargas Vallakovich|The Baron]] obviously wants Lady Wachter gone
+
+Always seen accompanied by two large mastiffs at either side
+Seems like he is used to his commands being followed
+
+Wife is Lydia and has a son who we have not met
+- The son was kicked out for some reason that I can't remember now but will update when I find it

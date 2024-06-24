@@ -16,7 +16,7 @@ info: The Baron of Vallaki, in a political battle with Lady Wachter, loves festi
 ---
 The Baron of [[Vallaki]] 
 In charge of the guards and justice in the city
-- Has a strongman, [[Izek Stronski|Izek]] that does his dirty work
+- Has a strongman, [[Izek Strazni|Izek]] that does his dirty work
 
 Has an idea that if everyone is happy then [[Vallaki]] will be released from [[Strahd von Zarovich|Strahd]]'s grasp
 - There are mandatory, weekly festivals put on to keep people happy in the town

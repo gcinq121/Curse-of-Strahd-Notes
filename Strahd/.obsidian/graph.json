@@ -1,14 +1,14 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-path:\"04 Tech Stuff\" -file:\"02 NPC\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "[\"type\":\"location\"]",
+      "query": "[\"type\":session]",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -22,28 +22,28 @@
       }
     },
     {
-      "query": "[\"type\":\"NPC\"]",
+      "query": "[\"type\":NPC]",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "[\"type\":\"Session Journal\"]",
+      "query": "[\"type\":location]",
       "color": {
         "a": 1,
-        "rgb": 2968776
+        "rgb": 3560679
       }
     },
     {
-      "query": "[\"type\":\"group\"",
+      "query": "[\"type\":group]",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 2142612
       }
     },
     {
-      "query": "[\"type\":\"item\"",
+      "query": "[\"type\":item]",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224502,
-  "close": true
+  "scale": 0.655521643617287,
+  "close": false
 }

@@ -7,11 +7,11 @@ aliases:
 ---
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Notable Affiliates"
-WHERE contains(affiliatedGroups, "Church of Lethander")
+WHERE contains(affiliatedGroups, "Church of Lathander")
 SORT file.name ASC
 ```
 
-## Lethander
+## Lathander
 The God Of Life
 
 Is a counter, sibling, yin to yang of [[Church of Kelemvor#Kelemvor]]
@@ -24,7 +24,7 @@ Spread joy wherever they go and whenever possible
 > The best mourning is laughing remembrance
 \- Joybringer novice manifestation
 
-### Lethander's Tenets of Faith
+### Lathander's Tenets of Faith
 **Watch each sunrise** - each day is a gift
 
 **Always aid** - strive always to aid, cultivate, inspire, and support all living things

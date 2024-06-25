@@ -22,9 +22,9 @@ Has an idea that if everyone is happy then [[Vallaki]] will be released from [[S
 - There are mandatory, weekly festivals put on to keep people happy in the town
 - Most people are sick of this since it has been going on for years now
 
-In an intense political battle with Lady Wachter of the Wachterhaus
+In an intense political battle with [[Lady Fiona Wachter|Lady Wachter]] of the Wachterhaus
 - She believes he is not running the town well and wishes to take control
-- [[Baron Vargas Vallakovich|The Baron]] obviously wants Lady Wachter gone
+- [[Baron Vargas Vallakovich|The Baron]] obviously wants [[Lady Fiona Wachter|Lady Wachter]] gone
 
 Always seen accompanied by two large mastiffs at either side
 Seems like he is used to his commands being followed

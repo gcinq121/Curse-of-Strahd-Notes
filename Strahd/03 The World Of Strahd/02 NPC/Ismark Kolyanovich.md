@@ -3,7 +3,7 @@ type: NPC
 learnDate: 2024-04-20 
 encounterDate: 2024-04-20
 encounterLocation: Village of Barovia
-lastSeen: On the road to Vallaki with party
+lastSeen: St. Andral's Church
 aliases:
   - Ismark
 alive: true 
@@ -14,3 +14,5 @@ Son the the [[Kolyan Indirovich|Burgomaster of the Village of Barovia]]
 Brother of [[Ireena Kolyana|Ireena]] 
 Good in a fight and will help the party if needed
 Looking for somewhere safe to keep his sister away from [[Strahd von Zarovich|Strahd]] 
+- Traveled with the party to [[Vallaki]] looking for somewhere safe
+- Met with [[Baron Vargas Vallakovich]] 

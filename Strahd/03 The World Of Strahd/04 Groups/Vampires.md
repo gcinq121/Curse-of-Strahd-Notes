@@ -16,3 +16,5 @@ Notable pale appearance and fangs
 Feed off of blood
 Have the ability to control animals, make thralls, mind control
 Cannot enter homes unless invited, and don't like daylight
+Need to have the dirt from where they were buried nearby when they sleep
+- We found this in Henrik's shop upstairs

@@ -5,7 +5,8 @@ affiliatedGroups:
 ---
 Alex's character
 
-Level 4 Barb
+Barb
+
 Is a [[Shadar-kai]] 
 
 A man who has a deep sadness about him  

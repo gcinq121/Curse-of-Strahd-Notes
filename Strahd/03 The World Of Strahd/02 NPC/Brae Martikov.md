@@ -21,4 +21,4 @@ We found him later at the [[West Gate]] in [[2024-05-05#The Gate to the West]]
 
 He woke up later in [[2024-05-05#Back on the Road]] and we interrogated him about who he was 
 - We learned he ran away from [[Vallaki]] and his parents own an inn there 
-- His parents are Urwin and Danika Martikov
+- His parents are [[Urwin Martikov|Urwin]] and Danika Martikov

@@ -20,3 +20,5 @@ Her and her whole family are wereravens, able to transform into ravens at will
 - As far as we know, the party are the only ones who know this
 
 Well known and respected in [[Vallaki]] 
+
+Knows about the [[Vampires]] being in [[Vallaki]] 

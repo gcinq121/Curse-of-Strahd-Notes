@@ -3,7 +3,7 @@ type: NPC
 learnDate: 2024-05-11
 encounterDate: 2024-05-19
 encounterLocation: St. Andral's Church
-lastSeen: The Blue Water Inn
+lastSeen: St. Andral's Church
 aliases:
   - Father Lucian
   - Lucian

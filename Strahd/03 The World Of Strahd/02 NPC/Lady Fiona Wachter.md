@@ -3,7 +3,7 @@ type: NPC
 learnDate: 2024-05-11
 encounterDate: 2024-05-31
 encounterLocation: Vallaki
-lastSeen: Her mansion
+lastSeen: Wachterhaus
 aliases: 
   - Fiona
   - Fiona Wachter

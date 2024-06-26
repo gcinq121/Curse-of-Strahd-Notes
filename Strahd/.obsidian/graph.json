@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:\"04 Tech Stuff\" -file:\"02 NPC\"",
+  "search": "-path:\"01 Meta\" -path:\"04 Tech Stuff\" -file:\"02 NPC\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.655521643617287,
+  "scale": 0.6555216436172872,
   "close": false
 }

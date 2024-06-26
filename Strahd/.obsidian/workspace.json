@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf9819900082f47",
+        "id": "df1b3e8f766a8e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "37ae7e4ab8cd42c6",
+            "id": "8630d7a1506ede13",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e796b355f7a8245c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Session Journals/2024-06-14.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md",
+                "file": "02 Session Journals/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md",
+                "file": "02 Session Journals/2024-06-14.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,12 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md"
+                "file": "02 Session Journals/2024-06-14.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,34 +161,35 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "37ae7e4ab8cd42c6",
+  "active": "e796b355f7a8245c",
   "lastOpenFiles": [
-    "02 Session Journals/2024-06-11.md",
-    "Weird Things.md",
-    "04 Tech Stuff/The Curse of Strahd.md",
-    "03 The World Of Strahd/03 Barovia/Vallaki/St. Andral's Church.md",
-    "02 Session Journals/2024-05-19.md",
     "02 Session Journals/2024-05-11.md",
+    "03 The World Of Strahd/04 Groups/Vampires.md",
+    "04 Tech Stuff/The Curse of Strahd.md",
+    "02 Session Journals/2024-06-14.md",
+    "01 Meta/Notes ToDo.md",
+    "03 The World Of Strahd/06 Important Items/Light Gem.md",
     "02 Session Journals/2024-05-25.md",
-    "01 - ToDo.md",
-    "02 Session Journals/2024-04-27.md",
-    "02 Session Journals/2024-04-20.md",
     "02 Session Journals/2024-05-05.md",
-    "03 The World Of Strahd/02 NPC/Lady Fiona Wachter.md",
-    "02 Session Journals/2024-05-31.md",
-    "03 The World Of Strahd/02 NPC/02 NPC.md",
-    "03 The World Of Strahd/02 NPC/Gregori Donavich.md",
-    "03 The World Of Strahd/03 Barovia/Village of Barovia/Barovia Church of Lathander.md",
-    "03 The World Of Strahd/04 Groups/Church Of Lathander.md",
-    "03 The World Of Strahd/02 NPC/Father Lucian Petrovich.md",
-    "04 Tech Stuff/sortspec.md",
-    "03 The World Of Strahd/02 NPC/Izek Strazni.md",
-    "03 The World Of Strahd/03 Barovia/Village of Barovia/Barovia Manor.md",
-    "03 The World Of Strahd/03 Barovia/Vallaki/Blue Water Inn.md",
+    "02 Session Journals/2024-04-27.md",
+    "03 The World Of Strahd/06 Important Items/Magic Mister.md",
+    "02 Session Journals/2024-06-11.md",
+    "03 The World Of Strahd/06 Important Items/Red Gem.md",
+    "04 Tech Stuff/Templates/Item.md",
     "03 The World Of Strahd/06 Important Items/Gold & Silver Ring.md",
-    "03 The World Of Strahd/04 Groups/Innkeeper's Family.md",
-    "03 The World Of Strahd/02 NPC/Baron Vargas Vallakovich.md",
+    "03 The World Of Strahd/01 PC/Revach.md",
+    "03 The World Of Strahd/01 PC/Lionel.md",
+    "03 The World Of Strahd/01 PC/Aeceran.md",
+    "03 The World Of Strahd/01 PC/Effarig.md",
+    "03 The World Of Strahd/02 NPC/02 NPC.md",
+    "03 The World Of Strahd/02 NPC/Ireena Kolyana.md",
+    "03 The World Of Strahd/02 NPC/Father Lucian Petrovich.md",
+    "03 The World Of Strahd/02 NPC/Danika Dorakova.md",
+    "03 The World Of Strahd/02 NPC/Strahd von Zarovich.md",
+    "03 The World Of Strahd/02 NPC/Urwin Martikov.md",
+    "03 The World Of Strahd/02 NPC/Izek Strazni.md",
     "03 The World Of Strahd/02 NPC/Ismark Kolyanovich.md",
+    "01 Meta",
     "Untitled.canvas",
     "03 The World Of Strahd/03 Barovia/Vallaki",
     "04 Tech Stuff/Images/BOMbakery.png",
@@ -195,7 +208,6 @@
     "03 The World Of Strahd/06 Important Items",
     "03 The World Of Strahd/04 Groups",
     "03 The World Of Strahd/05 Faerun/Phandalin",
-    "03 The World Of Strahd/05 Faerun",
     "d7b89c278428de36ac6a899452981f81.jpg"
   ]
 }

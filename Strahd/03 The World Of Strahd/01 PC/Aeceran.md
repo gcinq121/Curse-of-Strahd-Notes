@@ -24,3 +24,7 @@ Seems to have taken an interest in [[Ismark Kolyanovich|Ismark]] romatically
 
 [[Effarig]] noticed he gives off a faint undead glow when he uses his veil
 - He is less graceful when in holy places
+
+He admits that he was once a consort of [[Strahd von Zarovich|Strahd]] 
+- Got away with the [[Vistani]] 
+- Is not a spawn and cannot be controlled but is a [[Vampires|Vampire]] 

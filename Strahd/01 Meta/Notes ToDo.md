@@ -1,14 +1,11 @@
 ## Create Notes
 - [ ] Wachterhaus
-- [x] Lady Wachter
 - [ ] Henrik the coffin maker - add to people associated with Wachterhaus
 - [ ] Richtavio?
 - [ ] Anya Trevali? - Apothecary at Third Eye 
 	- Knows there were vampires in vallaki 
-	- half vistani half night elf?
+	- half night elf?
 - [ ] More important items
-	- [x] The mister
-	- [x] Lionel's gems ;)
 	- [ ] Bones of St. Andral?
 
 ## Update Notes 

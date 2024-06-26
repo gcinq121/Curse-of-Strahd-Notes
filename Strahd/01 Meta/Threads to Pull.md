@@ -40,3 +40,6 @@ Who commissioned the dolls that looks like [[Ireena Kolyana|Ireena]]
 
 [[Urwin Martikov|Urwin]] asked [[Revach]] to go to a winery to the west 
 - Tell the old man there that [[Urwin Martikov|Urwin]] misses him
+
+Who are the people that were in the secret cellar room
+- Wood carver, and the blue baby's bow

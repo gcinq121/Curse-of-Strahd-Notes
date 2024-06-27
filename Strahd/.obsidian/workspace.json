@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md",
+                "file": "02 Session Journals/2024-04-20.md",
                 "mode": "preview",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md",
+                "file": "02 Session Journals/2024-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md",
+                "file": "02 Session Journals/2024-04-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md"
+                "file": "02 Session Journals/2024-04-20.md"
               }
             }
           }
@@ -150,10 +149,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "becb3b7d0fb8ea10",
+  "active": "ae32d3962551d715",
   "lastOpenFiles": [
-    "01 Meta/Notes ToDo.md",
     "04 Tech Stuff/The Curse of Strahd.md",
+    "01 Meta/Notes ToDo.md",
     "Untitled.md",
     "03 The World Of Strahd/04 Groups/Wachterhaus (Organization).md",
     "03 The World Of Strahd/03 Barovia/Vallaki/Wachterhaus (Location).md",

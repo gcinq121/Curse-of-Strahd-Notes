@@ -1,5 +1,5 @@
 ## Create Notes
-- [ ] Wachterhaus
+- [x] Wachterhaus
 - [ ] Henrik the coffin maker - add to people associated with Wachterhaus
 - [ ] Richtavio?
 - [ ] Anya Trevali? - Apothecary at Third Eye 
@@ -15,3 +15,4 @@
 - [ ] Prayer in [[Church Of Lathander]] is not from Lethander
 - [x] Update the Martikov NPC notes with what they know
 	- [ ] Is Danika a wereraven?
+- [x] Add pictures for [[NPC]]

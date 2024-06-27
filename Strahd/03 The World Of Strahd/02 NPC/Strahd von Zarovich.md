@@ -14,6 +14,9 @@ affiliatedGroups:
   - Vampires
 info: the big bad of the story, currently after Ireena, last seen attending to somthing else after fending him off in the Village of Barovia 
 ---
+>[!infobox]
+>![[strahd.png\|profile+htall+relative wm-tl]]
+
 The main bad guy
 Is a [[Vampires|Vampire]]
 First heard about from [[Aeceran]] after he talked with a local

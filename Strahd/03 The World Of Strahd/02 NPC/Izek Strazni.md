@@ -11,6 +11,9 @@ affiliatedGroups:
   - 
 info: A strongman for the Baron of Vallaki, has one devil arm and seems infatuated with Ireena
 ---
+>[!infobox]
+>![[izek.png\|profile+htall+relative wtall]]
+
 The strongman for [[Baron Vargas Vallakovich|the Baron of Vallaki]] in [[Vallaki]]
 Does most of the dirty work for [[Baron Vargas Vallakovich|the Baron]] 
 Has one devilish arm that he proudly shows as a threat

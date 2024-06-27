@@ -12,6 +12,9 @@ affiliatedGroups:
   - Martikovs
 info: Wereraven boy Revach hit with a spear and we brought home
 ---
+>[!infobox]
+>![[martikovs.png\|profie]]
+
 A wereraven boy originally encountered in [[2024-04-27#Mechanical Mantids]]
 - [[Revach]] threw a spear at him as a raven before turning back into a human and running off
 

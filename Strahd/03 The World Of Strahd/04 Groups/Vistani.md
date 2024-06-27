@@ -3,6 +3,9 @@ type: group
 learnDate: 2024-04-20
 encounterDate: 2024-04-20
 ---
+>[!infobox]
+>![[vistani.png\|profile+hsmall+profile wtall]]
+
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Notable Affiliates"
 WHERE contains(affiliatedGroups, "Vistani")

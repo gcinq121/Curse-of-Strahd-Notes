@@ -13,6 +13,9 @@ affiliatedGroups:
   - Wachterhaus
 info: Wealthy woman trying to influence Vallaki, friendly with Strahd, The Traitor from the reading
 ---
+>[!infobox]
+>![[ladyWachter.png\|profile+htall+relative wm-tl]]
+
 A wealthy woman in [[Vallaki]] that wants to influence the town
 - She wants to get rid of [[Baron Vargas Vallakovich]] as the leader of the town
 - Believes the people of the town should elect their leader 

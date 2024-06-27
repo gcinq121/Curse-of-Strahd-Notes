@@ -32,5 +32,15 @@
       ],
       "key": "ArrowRight"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }

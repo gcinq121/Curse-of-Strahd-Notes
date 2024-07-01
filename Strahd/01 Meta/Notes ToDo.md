@@ -4,7 +4,7 @@
 - [ ] Richtavio?
 - [ ] Anya Trevali? - Apothecary at Third Eye 
 	- Knows there were vampires in vallaki 
-	- half night elf?
+	- half dusk elf?
 - [ ] More important items
 	- [ ] Bones of St. Andral?
 

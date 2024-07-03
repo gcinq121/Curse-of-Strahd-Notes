@@ -6,16 +6,16 @@
 	- Knows there were vampires in vallaki probably
 	- half dusk elf
 - [ ] More important items
-	- [ ] Bones of St. Andral
-	- [ ] The Book of Strahd
+	- [x] Bones of St. Andral
+	- [x] The Book of Strahd
 	- [ ] Dragon Scale
-- [ ] Victor Vallakovich
-- [ ] Stella Wachter 
+- [x] Victor Vallakovich
+- [x] Stella Wachter 
 
 ## Update Notes 
 - [x] PC Notes 
 - [x] Check last seen locations for NPC
-- [ ] Update [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] notes 
+- [x] Update [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] notes 
 - [ ] Prayer in [[Church Of Lathander]] is not from Lethander
 - [x] Update the Martikov NPC notes with what they know
 	- [ ] Is Danika a wereraven?

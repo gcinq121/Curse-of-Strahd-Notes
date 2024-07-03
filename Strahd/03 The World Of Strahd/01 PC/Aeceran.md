@@ -27,4 +27,4 @@ Seems to have taken an interest in [[Ismark Kolyanovich|Ismark]] romatically
 
 He admits that he was once a consort of [[Strahd von Zarovich|Strahd]] 
 - Got away with the [[Vistani]] 
-- Is not a spawn and cannot be controlled but is a [[Vampires|Vampire]] 
+- Is not a spawn and cannot be controlled 

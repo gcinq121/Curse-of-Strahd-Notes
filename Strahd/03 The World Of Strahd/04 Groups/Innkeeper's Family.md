@@ -8,7 +8,6 @@ aliases:
   - Alexi
   - Katrina
 ---
-
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Notable Affiliates"
 WHERE affiliatedGroups = ""

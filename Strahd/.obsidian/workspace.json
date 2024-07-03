@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3cc19cac6b6fda28",
+        "id": "f12070cb2be3ef8b",
         "type": "tabs",
         "children": [
           {
-            "id": "2c2656dc482634d7",
+            "id": "96f2cdefbb82cc47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 Meta/Notes ToDo.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"the book of ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Meta/Notes ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,13 +102,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Meta/Notes ToDo.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "af987a7b954bb96e",
+            "id": "a78824ba763e846c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -115,11 +121,13 @@
             }
           },
           {
-            "id": "240c903ec7baf06d",
+            "id": "3ed85df33c2b0e13",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 Meta/Notes ToDo.md"
+              }
             }
           }
         ]
@@ -140,53 +148,55 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2c2656dc482634d7",
+  "active": "4464eb0c262bd442",
   "lastOpenFiles": [
-    "02 Session Journals/2024-06-14.md",
-    "03 The World Of Strahd/03 Barovia/Vallaki/Thimdul's Armaments.md",
-    "04 Tech Stuff/The Curse of Strahd.md",
-    "03 The World Of Strahd/01 PC/Aeceran.md",
     "02 Session Journals/2024-06-21.md",
-    "02 Session Journals/2024-05-05.md",
-    "01 Meta/Threads to Pull.md",
     "01 Meta/Notes ToDo.md",
-    "02 Session Journals/2024-05-11.md",
-    "03 The World Of Strahd/04 Groups/Vampires.md",
-    "03 The World Of Strahd/06 Important Items/Light Gem.md",
+    "02 Session Journals/2024-06-14.md",
+    "01 Meta/Threads to Pull.md",
+    "02 Session Journals/2024-06-30.md",
+    "04 Tech Stuff/The Curse of Strahd.md",
+    "03 The World Of Strahd/06 Important Items/Bones of St. Andral.md",
+    "03 The World Of Strahd/06 Important Items/The Tome of Strahd.md",
     "02 Session Journals/2024-05-25.md",
-    "02 Session Journals/2024-04-27.md",
-    "03 The World Of Strahd/06 Important Items/Magic Mister.md",
+    "03 The World Of Strahd/03 Barovia/Vallaki/St. Andral's Church.md",
+    "02 Session Journals/2024-05-31.md",
     "02 Session Journals/2024-06-11.md",
-    "03 The World Of Strahd/06 Important Items/Red Gem.md",
-    "04 Tech Stuff/Templates/Item.md",
-    "03 The World Of Strahd/06 Important Items/Gold & Silver Ring.md",
-    "03 The World Of Strahd/01 PC/Revach.md",
-    "03 The World Of Strahd/01 PC/Lionel.md",
-    "03 The World Of Strahd/01 PC/Effarig.md",
+    "02 Session Journals/2024-04-20.md",
+    "02 Session Journals/2024-05-19.md",
+    "02 Session Journals/2024-05-11.md",
+    "03 The World Of Strahd/03 Barovia/Vallaki/Wachterhaus (Location).md",
+    "03 The World Of Strahd/02 NPC/Ismark Kolyanovich.md",
+    "03 The World Of Strahd/02 NPC/Victor Vallakovich.md",
+    "03 The World Of Strahd/02 NPC/Stella Wachter.md",
+    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
+    "04 Tech Stuff/Images/martikovs.png",
+    "02 Session Journals/2024-04-27.md",
+    "02 Session Journals/2024-05-05.md",
+    "03 The World Of Strahd/02 NPC/Kolyan Indirovich.md",
+    "03 The World Of Strahd/02 NPC/Myrtle & Freek.md",
+    "N.md",
     "03 The World Of Strahd/02 NPC/02 NPC.md",
-    "03 The World Of Strahd/02 NPC/Ireena Kolyana.md",
-    "03 The World Of Strahd/02 NPC/Father Lucian Petrovich.md",
-    "03 The World Of Strahd/02 NPC/Danika Dorakova.md",
-    "03 The World Of Strahd/02 NPC/Strahd von Zarovich.md",
-    "01 Meta",
     "Untitled.canvas",
+    "04 Tech Stuff/Images/vistani.png",
+    "04 Tech Stuff/Images/strahd.png",
+    "04 Tech Stuff/Images/madMary.png",
+    "04 Tech Stuff/Images/ladyWachter.png",
+    "04 Tech Stuff/Images/izek.png",
+    "04 Tech Stuff/Images/ireena.png",
+    "04 Tech Stuff/Images/ismark.png",
+    "04 Tech Stuff/Images/DrVadimChakovJournal.png",
+    "01 Meta",
     "03 The World Of Strahd/03 Barovia/Vallaki",
     "04 Tech Stuff/Images/BOMbakery.png",
-    "04 Tech Stuff/Images/npcScreen.png",
-    "04 Tech Stuff/Images/DrVadimChakovJournal.png",
-    "04 Tech Stuff/Images/symbolOfLethander.png",
-    "04 Tech Stuff/Images/wolfHeadJamboree.png",
     "obsidian.vimrc",
-    "Pasted image 20240430202346.png",
     "03 The World Of Strahd/02 NPC/02 NPC.canvas",
     "04 Tech Stuff/Images",
     "04 Tech Stuff/Templates",
-    "04 Tech Stuff/Images/barovia-map.png",
     "04 Tech Stuff",
     "03 The World Of Strahd/03 Barovia/Village of Barovia",
     "03 The World Of Strahd/06 Important Items",
     "03 The World Of Strahd/04 Groups",
-    "03 The World Of Strahd/05 Faerun/Phandalin",
-    "d7b89c278428de36ac6a899452981f81.jpg"
+    "03 The World Of Strahd/05 Faerun/Phandalin"
   ]
 }

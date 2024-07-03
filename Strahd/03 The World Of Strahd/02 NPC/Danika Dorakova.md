@@ -12,6 +12,9 @@ affiliatedGroups:
   - Martikovs
 info: Owns and runs the Blue Water Inn with her husband in Vallaki, also a Wereraven
 ---
+>[!infobox]
+>![[martikovs.png\|profie]]
+
 Owns and runs the [[Blue Water Inn]] with her husband, [[Urwin Martikov]] in [[Vallaki]] 
 - Has two sons, [[Brae Martikov|Brae]] and Brom
 - The family also unexpectedly can speak and understand elvish

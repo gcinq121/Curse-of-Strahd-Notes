@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f12070cb2be3ef8b",
+        "id": "dda9b80acbbb549c",
         "type": "tabs",
         "children": [
           {
-            "id": "96f2cdefbb82cc47",
+            "id": "d3cb9cd05a800555",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Meta/Notes ToDo.md",
+                "file": "02 Session Journals/2024-07-08.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"the book of ",
+                "query": "abbey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Meta/Notes ToDo.md",
+                "file": "02 Session Journals/2024-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Meta/Notes ToDo.md",
+                "file": "02 Session Journals/2024-07-08.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,15 +126,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Meta/Notes ToDo.md"
+                "file": "02 Session Journals/2024-07-08.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,35 +150,36 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4464eb0c262bd442",
+  "active": "d3cb9cd05a800555",
   "lastOpenFiles": [
-    "02 Session Journals/2024-06-21.md",
-    "01 Meta/Notes ToDo.md",
-    "02 Session Journals/2024-06-14.md",
-    "01 Meta/Threads to Pull.md",
     "02 Session Journals/2024-06-30.md",
     "04 Tech Stuff/The Curse of Strahd.md",
+    "02 Session Journals/2024-04-20.md",
+    "02 Session Journals/2024-06-11.md",
+    "01 Meta/Notes ToDo.md",
+    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
+    "03 The World Of Strahd/03 Barovia/Vallaki/Third Eye Potions & Sundries.md",
+    "03 The World Of Strahd/04 Groups/Innkeeper's Family.md",
+    "03 The World Of Strahd/02 NPC/Piersym Rowley.md",
+    "02 Session Journals/2024-05-05.md",
+    "02 Session Journals/2024-07-08.md",
+    "04 Tech Stuff/Images/BOMbakery.png",
+    "03 The World Of Strahd/02 NPC/Myrtle & Freek.md",
+    "02 Session Journals/2024-06-21.md",
+    "02 Session Journals/2024-06-14.md",
+    "01 Meta/Threads to Pull.md",
     "03 The World Of Strahd/06 Important Items/Bones of St. Andral.md",
     "03 The World Of Strahd/06 Important Items/The Tome of Strahd.md",
     "02 Session Journals/2024-05-25.md",
     "03 The World Of Strahd/03 Barovia/Vallaki/St. Andral's Church.md",
     "02 Session Journals/2024-05-31.md",
-    "02 Session Journals/2024-06-11.md",
-    "02 Session Journals/2024-04-20.md",
     "02 Session Journals/2024-05-19.md",
     "02 Session Journals/2024-05-11.md",
     "03 The World Of Strahd/03 Barovia/Vallaki/Wachterhaus (Location).md",
     "03 The World Of Strahd/02 NPC/Ismark Kolyanovich.md",
     "03 The World Of Strahd/02 NPC/Victor Vallakovich.md",
     "03 The World Of Strahd/02 NPC/Stella Wachter.md",
-    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
     "04 Tech Stuff/Images/martikovs.png",
-    "02 Session Journals/2024-04-27.md",
-    "02 Session Journals/2024-05-05.md",
-    "03 The World Of Strahd/02 NPC/Kolyan Indirovich.md",
-    "03 The World Of Strahd/02 NPC/Myrtle & Freek.md",
-    "N.md",
-    "03 The World Of Strahd/02 NPC/02 NPC.md",
     "Untitled.canvas",
     "04 Tech Stuff/Images/vistani.png",
     "04 Tech Stuff/Images/strahd.png",
@@ -188,7 +191,6 @@
     "04 Tech Stuff/Images/DrVadimChakovJournal.png",
     "01 Meta",
     "03 The World Of Strahd/03 Barovia/Vallaki",
-    "04 Tech Stuff/Images/BOMbakery.png",
     "obsidian.vimrc",
     "03 The World Of Strahd/02 NPC/02 NPC.canvas",
     "04 Tech Stuff/Images",

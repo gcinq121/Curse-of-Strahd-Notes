@@ -1,20 +1,14 @@
-Just notes for the Curse of Strahd campaign
+## My notes for a Curse of Strahd campaign
 
-Don't judge lol
+I am always looking to make these better so suggestions are welcome
 
-All notes are in markdown format but can be viewed with any text editor
+All notes are in markdown format but can be viewed with any text editor although I use Obsidian to manage them
 
-Some things like the tables won't work without the specific obsidian plugins I use
-- These and all my settings can be found in the .obsidian folder
-- My default controls in obsidian use Vi which can be turned off in Setting -> General -> Editor -> Vim Key Bindings at the bottom
-- I am not sure if this carries over but just in case
-
-  
-I will update whenever I complete the next sessions notes
-
-If there are any changes you want to make I can add editing privilege
+The most critical plugins for this vault are Advanced Tables, Dataview, Default New Tab Page, Folder Notes, and Leaflet
+- Alternatively all of these and my settings are stored in the Strahd/.obsidian folder
 
 I know some of the notes are messy, it should get cleaner as we get more information
+- New versions will come out when I finish notes for a session or get up to date
 
 ```
 Srahd 

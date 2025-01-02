@@ -11,7 +11,7 @@ I know some of the notes are messy, it should get cleaner as we get more informa
 - New versions will come out when I finish notes for a session or get up to date
 
 ```
-Srahd 
+Strahd 
 │   README.md
 │
 ├──.obsidian

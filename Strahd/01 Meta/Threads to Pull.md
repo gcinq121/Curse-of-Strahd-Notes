@@ -110,3 +110,8 @@ Who is this 200 year old abbot guy
 
 WHO IS THE DWARF IMPAED ON THE TREE I AM GOING FULL PEPE SYLVIA ABOUT THIS
 
+## [[2024-08-07]]
+We literally know the location of the warewolf den
+- How did I forget this we have the technology
+- Look through Van Richten's notes again - we know more now and they will mean more
+

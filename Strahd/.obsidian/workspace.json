@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ea846c71a4d01e8",
+        "id": "635f1ad1bce30c99",
         "type": "tabs",
         "children": [
           {
-            "id": "77297836ace8513c",
+            "id": "1a5702541de13f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks for The Curse of Strahd"
@@ -164,35 +164,35 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "77297836ace8513c",
+  "active": "1a5702541de13f37",
   "lastOpenFiles": [
-    "02 Session Journals/2024-07-27.md",
-    "01 Meta/Notes ToDo.md",
     "01 Meta/Threads to Pull.md",
+    "02 Session Journals/2024-08-07.md",
+    "03 The World Of Strahd/03 Barovia/Van Richten's Tower.md",
+    "02 Session Journals/2024-07-27.md",
+    "04 Tech Stuff/The Curse of Strahd.md",
+    "03 The World Of Strahd/03 Barovia/Tser Pool Camp.md",
+    "02 Session Journals/2024-06-30.md",
+    "02 Session Journals/2024-07-08.md",
+    "03 The World Of Strahd/03 Barovia/The Windmill.md",
+    "03 The World Of Strahd/03 Barovia/West Gate.md",
+    "01 Meta/Notes ToDo.md",
     "02 Session Journals/2024-07-20.md",
     "02 Session Journals/2024-07-16.md",
     "02 Session Journals/2024-06-11.md",
-    "02 Session Journals/2024-06-30.md",
     "02 Session Journals/2024-06-21.md",
-    "02 Session Journals/2024-07-08.md",
     "02 Session Journals/2024-05-05.md",
-    "04 Tech Stuff/The Curse of Strahd.md",
     "[2024-07-16.md",
     "03 The World Of Strahd/02 NPC/Arabella.md",
     "02 Session Journals/2024-06-14.md",
     "03 The World Of Strahd/03 Barovia/03 Barovia.md",
-    "Untitled.md",
     "03 The World Of Strahd/06 Important Items/Green Gem.md",
     "03 The World Of Strahd/06 Important Items/Gulthias Staff.md",
     "03 The World Of Strahd/02 NPC/02 NPC.md",
     "03 The World Of Strahd/02 NPC/Baron Vargas Vallakovich.md",
     "03 The World Of Strahd/02 NPC/Izek Strazni.md",
     "02 Session Journals/2024-04-20.md",
-    "03 The World Of Strahd/03 Barovia/Vallaki/Thimdul's Armaments.md",
-    "03 The World Of Strahd/02 NPC/Piersym Rowley.md",
     "Untitled.canvas",
-    "03 The World Of Strahd/06 Important Items/The Tome of Strahd.md",
-    "02 Session Journals/2024-05-11.md",
     "04 Tech Stuff/Images/BOMbakery.png",
     "04 Tech Stuff/Images/martikovs.png",
     "04 Tech Stuff/Images/vistani.png",

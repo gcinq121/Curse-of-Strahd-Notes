@@ -16,7 +16,7 @@ A [[Vistani]] girl who lived at the camp outside [[Vallaki]]
 - She started to show magical prowess
 - She is in love with a guy from Everlund that she met not long ago and wants to get back to him
 
-She ran away from her camp ([[[2024-07-16]]) and tried to row across Lake Zarovich
+She ran away from her camp ([[2024-07-16]]) and tried to row across Lake Zarovich
 - The party saved her ([[2024-07-20]]) and disguised her, promising to take her with them when they went to Krezk
 
 Interrupted by the will of [[Strahd von Zarovich|Strahd]], the party was unable to take her to Krezk

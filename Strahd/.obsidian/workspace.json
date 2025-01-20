@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "635f1ad1bce30c99",
+        "id": "3f30c9ae381351c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1a5702541de13f37",
+            "id": "09caebebc6bfd246",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md",
-                "mode": "preview",
+                "file": "01 Meta/Threads to Pull.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Curse of Strahd"
+              "title": "Threads to Pull"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arib",
+                "query": "warewolf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Tech Stuff/The Curse of Strahd.md",
+                "file": "01 Meta/Threads to Pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Curse of Strahd"
+              "title": "Backlinks for Threads to Pull"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-16.md",
+                "file": "01 Meta/Threads to Pull.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-07-16"
+              "title": "Outgoing links from Threads to Pull"
             }
           },
           {
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,34 +164,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1a5702541de13f37",
+  "active": "4464eb0c262bd442",
   "lastOpenFiles": [
+    "02 Session Journals/2024-09-27.md",
     "01 Meta/Threads to Pull.md",
+    "02 Session Journals/2024-09-22.md",
     "02 Session Journals/2024-08-07.md",
-    "03 The World Of Strahd/03 Barovia/Van Richten's Tower.md",
-    "02 Session Journals/2024-07-27.md",
+    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
     "04 Tech Stuff/The Curse of Strahd.md",
-    "03 The World Of Strahd/03 Barovia/Tser Pool Camp.md",
+    "02 Session Journals/2024-08-24.md",
+    "02 Session Journals/2024-04-27.md",
+    "02 Session Journals/2024-05-05.md",
+    "01 Meta/How to Play Effarig.md",
+    "02 Session Journals/2024-05-19.md",
+    "02 Session Journals/2024-04-20.md",
     "02 Session Journals/2024-06-30.md",
-    "02 Session Journals/2024-07-08.md",
-    "03 The World Of Strahd/03 Barovia/The Windmill.md",
-    "03 The World Of Strahd/03 Barovia/West Gate.md",
     "01 Meta/Notes ToDo.md",
     "02 Session Journals/2024-07-20.md",
+    "02 Session Journals/2024-07-27.md",
+    "02 Session Journals/2024-07-08.md",
     "02 Session Journals/2024-07-16.md",
+    "03 The World Of Strahd/03 Barovia/Van Richten's Tower.md",
+    "03 The World Of Strahd/03 Barovia/Tser Pool Camp.md",
+    "03 The World Of Strahd/03 Barovia/The Windmill.md",
+    "03 The World Of Strahd/03 Barovia/West Gate.md",
     "02 Session Journals/2024-06-11.md",
     "02 Session Journals/2024-06-21.md",
-    "02 Session Journals/2024-05-05.md",
     "[2024-07-16.md",
     "03 The World Of Strahd/02 NPC/Arabella.md",
-    "02 Session Journals/2024-06-14.md",
-    "03 The World Of Strahd/03 Barovia/03 Barovia.md",
-    "03 The World Of Strahd/06 Important Items/Green Gem.md",
-    "03 The World Of Strahd/06 Important Items/Gulthias Staff.md",
-    "03 The World Of Strahd/02 NPC/02 NPC.md",
-    "03 The World Of Strahd/02 NPC/Baron Vargas Vallakovich.md",
-    "03 The World Of Strahd/02 NPC/Izek Strazni.md",
-    "02 Session Journals/2024-04-20.md",
     "Untitled.canvas",
     "04 Tech Stuff/Images/BOMbakery.png",
     "04 Tech Stuff/Images/martikovs.png",

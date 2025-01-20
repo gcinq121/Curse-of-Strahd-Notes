@@ -3,7 +3,7 @@
     {
       "id": "barovia-map",
       "locked": true,
-      "lastAccessed": 1737302190185,
+      "lastAccessed": 1737414146456,
       "markers": [
         {
           "id": "ID_c98829886bba",
@@ -115,6 +115,23 @@
             1.5061188033681214
           ],
           "link": "Castle Ravenloft",
+          "layer": "%5B%5Bbarovia-map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a3a2aab5aba",
+          "type": "default",
+          "loc": [
+            -0.3765716552734375,
+            0.496152262277209
+          ],
+          "link": "Van Richten's Tower",
           "layer": "%5B%5Bbarovia-map.png%5D%5D",
           "mutable": true,
           "command": false,

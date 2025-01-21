@@ -16,4 +16,4 @@
 - [x] Update the Martikov NPC notes with what they know
 	- [ ] Is Danika a wereraven?
 - [ ] Threads sessions
-- [ ] Answers from sessions 
+- [x] Answers from sessions 
